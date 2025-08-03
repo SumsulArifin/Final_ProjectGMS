@@ -33,9 +33,7 @@ A secure and scalable Office Management System built with **Java Spring Boot** a
 
 ---
 
-## 📸 Preview
 
-![Screenshot](https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png)
 
 ---
 
