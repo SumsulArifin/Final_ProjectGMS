@@ -1,8 +1,4 @@
-# Final_ProjectGMSHere’s a clean and professional `README.md` file for your **Office Management System** project:
 
----
-
-```md
 # 🏢 Office Management System
 
 A secure and scalable Office Management System built with **Java Spring Boot** and **Angular 15**. This project is designed to streamline daily office operations including employee management, department assignments, task monitoring, and more — with a modern, responsive frontend and robust backend architecture.
